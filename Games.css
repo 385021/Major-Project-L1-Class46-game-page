@@ -1,0 +1,12 @@
+#c{font-size:30px;}
+body{background-color:grey;}
+#See{font-size:12px;}
+#man{font-size:12px;}
+#poo{display:none;}
+#demo{display:none;}
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: DodgerBlue;
+}
+
